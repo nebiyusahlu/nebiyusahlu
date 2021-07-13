@@ -20,9 +20,10 @@ A highly motivated Business Intelligence Developer with  experience in Database/
 
 • Expert in designing complex reports like reports using Cascading parameters, Drill-Through Reports, Parameterized Reports and Report Models and ad-hoc reports using SQL Server Reporting Services (SSRS).
 
-I am a spirtual person I love praying and meditating which helps me release any tensions and stress I may encounter while living this beutiful life.
-I also love spending time with my family working out and football (Soccer) ⚽. 
-My favorite team is Liverpool FC.
+I am a spirtual person I love praying and meditating which helps me release any tensions and stress I may encounter while living this beautiful life.
+I also love spending time with my family, working out and football (Soccer) ⚽. 
+
+My favorite team is Liverpool FC. You will never walk alone! YNWA! Go Reds!
 -->
 
 
