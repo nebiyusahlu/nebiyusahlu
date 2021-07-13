@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nebiyusahlu/nebiyusahlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 A highly motivated Business Intelligence Developer with  experience in Database/Business Intelligence development using SQL Server Reporting Services, SQL Server Analysis Services, SQL Server Integration Services, Tableau and Power BI.
 
 • High Level Understanding of client requirement Analysis, Physical, Logical design, development (SQL Server Enterprise manager), Resource Planning, Coding, Debugging, Testing, Deployment, Support and Maintenance of business applications using SQL Server 2014/2016/2019, DTS, SSIS, SSAS and SSRS.
